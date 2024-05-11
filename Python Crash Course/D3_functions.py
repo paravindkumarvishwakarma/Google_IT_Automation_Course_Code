@@ -11,3 +11,8 @@ def greeting(name, department):
 greeting("Paravind", "Software engineering")
 greeting("Suraj", "Software engineering")
 greeting("Pawan", "Software engineering")
+
+def paravind(x,y):
+    print(x+y)
+
+paravind(5,3)
