@@ -173,3 +173,31 @@ def round_up(number):
 # Calls the function with the parameter value of 35.
 print(round_up(35)) # Should print 40
 
+
+
+#########################QUIZE RELATED TO CONDITIONAL STATEMENT###############################
+
+#Complete the script by filling in the missing parts. The function receives a name, then returns a greeting based on whether or not that name is "Taylor".
+def greeting(name):
+  if name == "Taylor":
+    return "Welcome back Taylor!"
+  else:
+    return "Hello there, " + name
+
+print(greeting("Taylor"))
+print(greeting("John"))
+
+#What’s the output of this code if number equals 10?
+if number > 11: 
+  print(0)
+elif number != 10:
+  print(1)
+elif number >= 20 or number < 12:
+  print(2)
+else:
+  print(3)
+
+#Output = 3
+  
+
+
