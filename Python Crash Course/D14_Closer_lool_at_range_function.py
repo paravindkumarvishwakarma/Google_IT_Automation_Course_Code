@@ -68,3 +68,4 @@ for n in range(1, 5, 6):
 #Example of the range() function in code:
     
 #Example 1
+print("Example 1")
